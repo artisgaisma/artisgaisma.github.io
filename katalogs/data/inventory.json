@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-08-28T16:13:06.332Z",
+  "publishedAt": "2026-08-28T18:28:56.364Z",
   "items": [
     {
       "row": 4,
@@ -483,6 +483,7 @@
       "ledPerM": "576",
       "specVoltageV": "24",
       "ledChipSize": "COB",
+      "ledFpcCutLength": "41.7",
       "specIpClass": "IP20"
     },
     {
@@ -505,6 +506,7 @@
       "specW": "20",
       "ledChipSize": "COB",
       "ledFpcColor": "white",
+      "ledFpcCutLength": "41.7",
       "specIpClass": "IP68"
     },
     {
@@ -527,6 +529,7 @@
       "specW": "0",
       "ledFpcWidth": "4",
       "ledFpcColor": "amber",
+      "ledFpcCutLength": "5",
       "specIpClass": "IP20"
     },
     {
@@ -547,6 +550,7 @@
       "specVoltageV": "12",
       "ledFpcWidth": "5",
       "ledFpcColor": "white",
+      "ledFpcCutLength": "5",
       "wirePins": "0",
       "specIpClass": "IP20"
     },
@@ -569,6 +573,7 @@
       "ledChipSize": "5050",
       "ledFpcWidth": "12",
       "ledFpcColor": "Black",
+      "ledFpcCutLength": "16.7",
       "wirePins": "0",
       "specIpClass": "IP20"
     },
@@ -592,6 +597,7 @@
       "specW": "30",
       "ledChipSize": "50",
       "ledFpcWidth": "12",
+      "ledFpcCutLength": "62.5",
       "specIpClass": "IP20"
     },
     {
@@ -611,6 +617,7 @@
       "ledPerM": "60",
       "specVoltageV": "12",
       "ledChipSize": "5050",
+      "ledFpcCutLength": "50",
       "wirePins": "0",
       "specIpClass": "IP20"
     },
@@ -631,6 +638,7 @@
       "ledPerM": "72",
       "specVoltageV": "12",
       "ledChipSize": "5050",
+      "ledFpcCutLength": "41.7",
       "specIpClass": "IP20"
     },
     {
@@ -649,6 +657,7 @@
       "ledPixPerM": "20",
       "ledPerM": "60",
       "specVoltageV": "12",
+      "ledFpcCutLength": "50",
       "wirePins": "0",
       "specIpClass": "IP20"
     },
@@ -668,6 +677,7 @@
       "ledPixPerM": "12",
       "ledPerM": "72",
       "specVoltageV": "24",
+      "ledFpcCutLength": "83.3",
       "specIpClass": "IP20"
     },
     {
@@ -686,6 +696,7 @@
       "ledPixPerM": "24",
       "ledPerM": "72",
       "specVoltageV": "12",
+      "ledFpcCutLength": "41.7",
       "specIpClass": "IP20"
     },
     {
@@ -705,6 +716,7 @@
       "ledPerM": "60",
       "specVoltageV": "12",
       "ledChipSize": "5050",
+      "ledFpcCutLength": "50",
       "wirePins": "0",
       "specIpClass": "IP20"
     },
@@ -725,6 +737,7 @@
       "ledPerM": "60",
       "specVoltageV": "12",
       "ledChipSize": "5050",
+      "ledFpcCutLength": "50",
       "wirePins": "0",
       "specIpClass": "12"
     },
@@ -747,6 +760,7 @@
       "ledChipSize": "5050",
       "ledFpcWidth": "10",
       "ledFpcColor": "white",
+      "ledFpcCutLength": "100",
       "specIpClass": "IP68"
     },
     {
@@ -794,7 +808,8 @@
       "specVoltageV": "24",
       "driverChannelAmpere": "1.171",
       "specW": "28.1",
-      "ledWPerMTested": "1"
+      "ledWPerMTested": "1",
+      "ledFpcCutLength": "71.4"
     },
     {
       "row": 43,
@@ -815,6 +830,7 @@
       "ledChipSize": "5050",
       "ledFpcWidth": "10",
       "ledFpcColor": "black",
+      "ledFpcCutLength": "50",
       "specIpClass": "IP20"
     },
     {
@@ -835,6 +851,7 @@
       "specVoltageV": "12",
       "ledChipSize": "5050",
       "ledFpcWidth": "12",
+      "ledFpcCutLength": "6.9",
       "specIpClass": "20"
     },
     {
@@ -892,6 +909,7 @@
       "specW": "21",
       "ledChipSize": "5050",
       "ledFpcWidth": "12",
+      "ledFpcCutLength": "35.7",
       "specIpClass": "IP20"
     },
     {
@@ -915,6 +933,7 @@
       "ledChipSize": "COB",
       "ledFpcWidth": "10",
       "ledFpcColor": "white",
+      "ledFpcCutLength": "71.4",
       "specIpClass": "IP20"
     },
     {
@@ -935,7 +954,8 @@
       "specVoltageV": "24",
       "driverChannelAmpere": "0.625",
       "specW": "15",
-      "ledFpcWidth": "10"
+      "ledFpcWidth": "10",
+      "ledFpcCutLength": "71.4"
     },
     {
       "row": 49,
@@ -956,6 +976,7 @@
       "driverChannelAmpere": "0.417",
       "specW": "10",
       "ledFpcWidth": "12",
+      "ledFpcCutLength": "62.5",
       "specIpClass": "IP20"
     },
     {
@@ -978,6 +999,7 @@
       "specW": "30",
       "ledChipSize": "5050",
       "ledFpcWidth": "15",
+      "ledFpcCutLength": "50",
       "specIpClass": "IP20"
     },
     {
@@ -1000,6 +1022,7 @@
       "specW": "28",
       "ledChipSize": "5050",
       "ledFpcWidth": "12",
+      "ledFpcCutLength": "41.7",
       "specIpClass": "IP20"
     },
     {
@@ -1023,6 +1046,7 @@
       "ledChipSize": "5050",
       "ledFpcWidth": "12",
       "ledFpcColor": "white",
+      "ledFpcCutLength": "35.7",
       "specIpClass": "IP20"
     },
     {
@@ -1046,6 +1070,7 @@
       "ledChipSize": "5050",
       "ledFpcWidth": "12",
       "ledFpcColor": "white",
+      "ledFpcCutLength": "41.7",
       "specIpClass": "IP20"
     },
     {
@@ -1069,6 +1094,7 @@
       "ledChipSize": "5050",
       "ledFpcWidth": "15.5",
       "ledFpcColor": "white",
+      "ledFpcCutLength": "41.7",
       "specIpClass": "IP20"
     },
     {
@@ -1090,6 +1116,7 @@
       "driverChannelAmpere": "0.75",
       "specW": "18",
       "ledChipSize": "COB",
+      "ledFpcCutLength": "71.4",
       "specIpClass": "IP20"
     },
     {
@@ -1113,6 +1140,7 @@
       "ledChipSize": "5050",
       "ledFpcWidth": "8",
       "ledFpcColor": "white",
+      "ledFpcCutLength": "35.7",
       "specIpClass": "IP20"
     },
     {
@@ -1132,7 +1160,8 @@
       "ledPerM": "84",
       "specVoltageV": "12",
       "driverChannelAmpere": "1.667",
-      "specW": "20"
+      "specW": "20",
+      "ledFpcCutLength": "35.7"
     },
     {
       "row": 58,
@@ -1154,6 +1183,7 @@
       "specW": "20",
       "ledChipSize": "5050",
       "ledFpcWidth": "8",
+      "ledFpcCutLength": "35.7",
       "specIpClass": "IP20"
     },
     {
@@ -1174,6 +1204,7 @@
       "specVoltageV": "12",
       "ledFpcWidth": "10",
       "ledFpcColor": "white",
+      "ledFpcCutLength": "10.4",
       "specIpClass": "IP20"
     },
     {
@@ -1613,7 +1644,7 @@
       "row": 95,
       "name": "Pxnet Recorder",
       "unit": "gab",
-      "qty": -5,
+      "qty": 2,
       "price": 150,
       "group": "DRV",
       "subgroup": "ART-NET Player",
@@ -1641,10 +1672,10 @@
       "row": 99,
       "name": "LNX-378T Artnet SPI Controller",
       "unit": "gab",
-      "qty": 11,
+      "qty": 1,
       "price": 250,
       "group": "DRV",
-      "subgroup": "",
+      "subgroup": "ART-NET Player",
       "sellPartNumber": "DRV-R4",
       "informational": false,
       "description": "",
@@ -1677,9 +1708,9 @@
       "unit": "gab",
       "qty": 30,
       "price": 0,
-      "group": "DRV",
-      "subgroup": "NEW",
-      "sellPartNumber": "DRV-R55",
+      "group": "OTHER",
+      "subgroup": "PCB",
+      "sellPartNumber": "OTHER-R187",
       "informational": false,
       "description": "",
       "pictureUrl": "",
@@ -1719,6 +1750,23 @@
     },
     {
       "row": 109,
+      "name": "LPV-100-5 MeanWell",
+      "unit": "gab",
+      "qty": 0,
+      "price": 35,
+      "group": "PSU",
+      "subgroup": "Outdoor",
+      "sellPartNumber": "PSU-R63",
+      "informational": false,
+      "description": "",
+      "pictureUrl": "",
+      "specVoltageV": "5V",
+      "specW": "60",
+      "specIpClass": "IP20",
+      "specWeightKg": "0,63"
+    },
+    {
+      "row": 110,
       "name": "PSU XLG-150-24-A",
       "unit": "gab",
       "qty": 0,
@@ -1731,13 +1779,13 @@
       "pictureUrl": ""
     },
     {
-      "row": 111,
+      "row": 112,
       "name": "ELG-200-12A-3Y",
       "unit": "gab",
       "qty": 7,
       "price": 45,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R77",
       "informational": false,
       "description": "12pcs packing 12V 16A, regulējams, PFC, IP65, Mean Well",
@@ -1747,13 +1795,13 @@
       "specIpClass": "IP67"
     },
     {
-      "row": 112,
+      "row": 113,
       "name": "ELG-240-24A-3Y",
       "unit": "gab",
-      "qty": -4,
+      "qty": 0,
       "price": 60,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R78",
       "informational": false,
       "description": "240 W LED barošanas bloks ar vienu izeju 24 V 10 A noregulēts ar PFC",
@@ -1763,13 +1811,13 @@
       "specIpClass": "IP67"
     },
     {
-      "row": 113,
+      "row": 114,
       "name": "HDR-30-12 DIN",
       "unit": "gab",
       "qty": 1,
       "price": 0,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R66",
       "informational": false,
       "description": "",
@@ -1778,13 +1826,13 @@
       "specW": "30"
     },
     {
-      "row": 114,
+      "row": 115,
       "name": "HLG-320H-24",
       "unit": "gab",
-      "qty": -3,
+      "qty": 0,
       "price": 85,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R80",
       "informational": false,
       "description": "300 W LED barošanas bloks ar vienu izeju 24 V 12,5 A noregulēts ar PFC",
@@ -1795,13 +1843,13 @@
       "specWeightKg": "0,5"
     },
     {
-      "row": 115,
+      "row": 116,
       "name": "HLG-480H-24A",
       "unit": "gab",
       "qty": 1,
       "price": 150,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R81",
       "informational": false,
       "description": "LED impulsu barošanas bloks 24V 20A, PFC regulējams, IP65 Mean Well",
@@ -1811,13 +1859,13 @@
       "specIpClass": "IP67"
     },
     {
-      "row": 116,
+      "row": 117,
       "name": "LPV-60-12",
       "unit": "gab",
       "qty": 0,
       "price": 20,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R68",
       "informational": false,
       "description": "Impulsu barošanas bloks LED 12V 5A 60W IP67 Mean Well",
@@ -1827,13 +1875,13 @@
       "specIpClass": "IP67"
     },
     {
-      "row": 117,
+      "row": 118,
       "name": "LPV-60-24",
       "unit": "gab",
       "qty": 7,
       "price": 20,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R75",
       "informational": false,
       "description": "Impulsu barošanas bloks 60W, LED 24V 2.5A IP67 Mean Well",
@@ -1843,13 +1891,13 @@
       "specIpClass": "IP20"
     },
     {
-      "row": 118,
+      "row": 119,
       "name": "LPV-100-12",
       "unit": "gab",
       "qty": 0,
       "price": 25,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R69",
       "informational": false,
       "description": "Impulsu barošanas bloks LED 12V 8.5A 100W IP67 Mean Well",
@@ -1859,13 +1907,13 @@
       "specIpClass": "IP67"
     },
     {
-      "row": 119,
+      "row": 120,
       "name": "LPV-100-24",
       "unit": "gab",
-      "qty": -8,
+      "qty": 0,
       "price": 0,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R76",
       "informational": false,
       "description": "",
@@ -1875,13 +1923,13 @@
       "specIpClass": "IP20"
     },
     {
-      "row": 120,
+      "row": 121,
       "name": "LRS-200-5",
       "unit": "gab",
       "qty": 4,
       "price": 45,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R64",
       "informational": false,
       "description": "200 W ekonomisks zemprofila 5 V 40 A",
@@ -1891,13 +1939,13 @@
       "specIpClass": "IP20"
     },
     {
-      "row": 121,
+      "row": 122,
       "name": "LRS-200-12",
       "unit": "gab",
       "qty": 0,
       "price": 30,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R72",
       "informational": false,
       "description": "200 W ekonomisks zemprofila 12 V 17 A",
@@ -1907,13 +1955,13 @@
       "specIpClass": "IP20"
     },
     {
-      "row": 122,
+      "row": 123,
       "name": "NDR-120-12",
       "unit": "gab",
       "qty": 2,
       "price": 45,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R70",
       "informational": false,
       "description": "Impulsu barošanas avots 12V 10A stiprināms uz DIN sliedi MEAN WELL",
@@ -1923,13 +1971,13 @@
       "specIpClass": "DIN"
     },
     {
-      "row": 123,
+      "row": 124,
       "name": "PSU 12V 5A IP20",
       "unit": "gab",
       "qty": 50,
       "price": 5,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R67",
       "informational": false,
       "description": "PSU 12V 5A IP20 Open From Cisco",
@@ -1939,13 +1987,13 @@
       "specIpClass": "IP20"
     },
     {
-      "row": 124,
+      "row": 125,
       "name": "PSU 15V 250W IP68",
       "unit": "gab",
       "qty": 3,
       "price": 45,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R73",
       "informational": false,
       "description": "",
@@ -1955,13 +2003,13 @@
       "specIpClass": "IP67"
     },
     {
-      "row": 125,
+      "row": 126,
       "name": "PSU 24V 200W IP67  HQ",
       "unit": "gab",
       "qty": 4,
       "price": 35,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R83",
       "informational": false,
       "description": "3y warranty",
@@ -1971,13 +2019,13 @@
       "specIpClass": "IP67"
     },
     {
-      "row": 126,
+      "row": 127,
       "name": "PSU 24V 300W IP67 HQ",
       "unit": "gab",
       "qty": 2,
       "price": 45,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R84",
       "informational": false,
       "description": "3y warranty",
@@ -1988,13 +2036,13 @@
       "specWeightKg": "0,5"
     },
     {
-      "row": 127,
+      "row": 128,
       "name": "XLG-200-24-A",
       "unit": "gab",
-      "qty": -15,
+      "qty": 12,
       "price": 45,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R176",
       "informational": false,
       "description": "16pcs pack 200 W nemainīga jaudas patēriņa LED transformators 24 V 8,3 A, pielāgots, IP67",
@@ -2004,13 +2052,13 @@
       "specIpClass": "IP67"
     },
     {
-      "row": 128,
+      "row": 129,
       "name": "XLG-320-V-A",
       "unit": "gab",
       "qty": 1,
       "price": 70,
       "group": "PSU",
-      "subgroup": "",
+      "subgroup": "Outdoor",
       "sellPartNumber": "PSU-R74",
       "informational": false,
       "description": "312W pastāvīgas jaudas režīma barošanas\nbloks LED 12V18A, 24V13A, regulēts, IP67,\n12V - 18A, 24V - 13A",
@@ -2020,7 +2068,7 @@
       "specIpClass": "IP67"
     },
     {
-      "row": 130,
+      "row": 131,
       "name": "RS-TA23",
       "unit": "gab",
       "qty": 2,
@@ -2033,10 +2081,10 @@
       "pictureUrl": ""
     },
     {
-      "row": 132,
+      "row": 133,
       "name": "NDR-240-24",
       "unit": "gab",
-      "qty": -3,
+      "qty": 0,
       "price": 55,
       "group": "PSU",
       "subgroup": "DIN PSU",
@@ -2049,7 +2097,7 @@
       "specIpClass": "DIN"
     },
     {
-      "row": 134,
+      "row": 135,
       "name": "ICL-1612",
       "unit": "gab",
       "qty": 4,
@@ -2062,24 +2110,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 136,
-      "name": "LPV-100-5 MeanWell",
-      "unit": "gab",
-      "qty": 0,
-      "price": 35,
-      "group": "PSU",
-      "subgroup": "IP",
-      "sellPartNumber": "PSU-R63",
-      "informational": false,
-      "description": "",
-      "pictureUrl": "",
-      "specVoltageV": "5V",
-      "specW": "60",
-      "specIpClass": "IP20",
-      "specWeightKg": "0,63"
-    },
-    {
-      "row": 138,
+      "row": 137,
       "name": "RSP-320-48",
       "unit": "gab",
       "qty": 2,
@@ -2095,7 +2126,7 @@
       "specIpClass": "IP20"
     },
     {
-      "row": 139,
+      "row": 138,
       "name": "UHP-200-5",
       "unit": "gab",
       "qty": 4,
@@ -2111,7 +2142,7 @@
       "specIpClass": "IP20"
     },
     {
-      "row": 143,
+      "row": 142,
       "name": "22G-3 fast terminal block",
       "unit": "gab",
       "qty": 75,
@@ -2124,7 +2155,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 144,
+      "row": 143,
       "name": "22G-5 fast terminal block",
       "unit": "gab",
       "qty": 40,
@@ -2137,7 +2168,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 145,
+      "row": 144,
       "name": "Wago 5Pin 221-415",
       "unit": "gab",
       "qty": 14,
@@ -2145,6 +2176,19 @@
       "group": "WIRE",
       "subgroup": "Connector",
       "sellPartNumber": "WIRE-R105",
+      "informational": false,
+      "description": "",
+      "pictureUrl": ""
+    },
+    {
+      "row": 145,
+      "name": "WAGO 221-420 10vietīģs",
+      "unit": "gab",
+      "qty": 10,
+      "price": 1.72,
+      "group": "WIRE",
+      "subgroup": "Connector",
+      "sellPartNumber": "WIRE-R192",
       "informational": false,
       "description": "",
       "pictureUrl": ""
@@ -2170,7 +2214,7 @@
       "row": 148,
       "name": "M12 Engineer Cable 6x0.35mm IP67 20cm pa",
       "unit": "gab",
-      "qty": 0,
+      "qty": 4,
       "price": 3.5,
       "group": "WIRE",
       "subgroup": "Connector+Wire",
@@ -2704,7 +2748,7 @@
       "row": 193,
       "name": "D40 EndCAP Set, Grey",
       "unit": "gab",
-      "qty": -2,
+      "qty": 0,
       "price": 4,
       "group": "PROF",
       "subgroup": "",
@@ -2730,7 +2774,7 @@
       "row": 195,
       "name": "Tube 360 D40 1m + small tube, ALU plate , no LED, no endcaps",
       "unit": "m",
-      "qty": -4,
+      "qty": 0,
       "price": 18,
       "group": "PROF",
       "subgroup": "",
@@ -2769,7 +2813,7 @@
       "row": 202,
       "name": "IP65 sadales skapis 200x300x150mm",
       "unit": "gab",
-      "qty": -2,
+      "qty": 0,
       "price": 70,
       "group": "OTHER",
       "subgroup": "BOX",
@@ -2808,7 +2852,7 @@
       "row": 205,
       "name": "MDF Fireproof 600x800 Panel",
       "unit": "gab",
-      "qty": -5,
+      "qty": 20,
       "price": 1,
       "group": "OTHER",
       "subgroup": "BOX",
@@ -2847,7 +2891,7 @@
       "row": 208,
       "name": "Vented Box 400x600",
       "unit": "gab",
-      "qty": -2,
+      "qty": 10,
       "price": 120,
       "group": "OTHER",
       "subgroup": "BOX",
@@ -2858,19 +2902,6 @@
     },
     {
       "row": 210,
-      "name": "WAGO 221-420 10vietīģs",
-      "unit": "gab",
-      "qty": 10,
-      "price": 1.72,
-      "group": "OTHER",
-      "subgroup": "Connetors",
-      "sellPartNumber": "OTHER-R127",
-      "informational": false,
-      "description": "",
-      "pictureUrl": ""
-    },
-    {
-      "row": 212,
       "name": "Gaismu noma",
       "unit": "gab",
       "qty": 12,
@@ -2883,7 +2914,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 213,
+      "row": 211,
       "name": "Skaņas sistēmas noma",
       "unit": "gab",
       "qty": 12,
@@ -2896,7 +2927,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 215,
+      "row": 213,
       "name": "Darbs, paligstrādnieks",
       "unit": "stundas",
       "qty": 0,
@@ -2909,7 +2940,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 216,
+      "row": 214,
       "name": "Darbs, programmēšana",
       "unit": "stundas",
       "qty": 0,
@@ -2922,7 +2953,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 218,
+      "row": 216,
       "name": "Darbs, ražošana",
       "unit": "stundas",
       "qty": 0,
@@ -2935,7 +2966,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 220,
+      "row": 218,
       "name": "Darbs, uzstādīšana objektā",
       "unit": "stundas",
       "qty": 0,
@@ -2948,7 +2979,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 222,
+      "row": 220,
       "name": "DIN bracket 45mm 5 holes black",
       "unit": "gab",
       "qty": 0,
@@ -2961,7 +2992,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 224,
+      "row": 222,
       "name": "SANDISK Extreme Pro microSDHC 32GB + SD Adapter + Rescue Pro Deluxe 100MB/s A1 C10 V30 UHS-I U3 atmiņas karte",
       "unit": "gab",
       "qty": 0,
@@ -2974,7 +3005,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 225,
+      "row": 223,
       "name": "SANDISK Extreme Pro microSDXC 64GB + SD Adapter + Rescue Pro Deluxe 170MB/s A2 C10 V30 UHS-I U3 atmiņas karte",
       "unit": "gab",
       "qty": 0,
@@ -2988,7 +3019,7 @@
       "specW": "0"
     },
     {
-      "row": 226,
+      "row": 224,
       "name": "SDSQUAB- 064G-GN6MA - Atm.karte SanDisk mSDXC 64GB Ultra",
       "unit": "gab",
       "qty": 2,
@@ -3001,7 +3032,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 227,
+      "row": 225,
       "name": "SDSQXAH- 064G-GN6MA - Atm.karte SanDisk mSDXC 64GB Extreme",
       "unit": "gab",
       "qty": 1,
@@ -3012,6 +3043,34 @@
       "informational": false,
       "description": "",
       "pictureUrl": ""
+    },
+    {
+      "row": 227,
+      "name": "PCB_5PIN_P12-12mm",
+      "unit": "gab",
+      "qty": 75,
+      "price": 3,
+      "group": "OTHER",
+      "subgroup": "PCB",
+      "sellPartNumber": "OTHER-R186",
+      "informational": false,
+      "description": "",
+      "pictureUrl": ""
+    },
+    {
+      "row": 228,
+      "name": "PCB_5PIN_P50x8_12mm",
+      "unit": "gab",
+      "qty": 75,
+      "price": 2.13,
+      "group": "OTHER",
+      "subgroup": "PCB",
+      "sellPartNumber": "OTHER-R59",
+      "informational": false,
+      "description": "PCB for LED Strip paralel soldering, pitch 50mm between strips",
+      "pictureUrl": "",
+      "specW": "0",
+      "wirePins": "0"
     },
     {
       "row": 229,
@@ -3028,21 +3087,6 @@
     },
     {
       "row": 230,
-      "name": "PCB_5PIN_P50x8_12mm",
-      "unit": "gab",
-      "qty": 75,
-      "price": 2.13,
-      "group": "OTHER",
-      "subgroup": "PCB",
-      "sellPartNumber": "OTHER-R59",
-      "informational": false,
-      "description": "PCB for LED Strip paralel soldering, pitch 50mm between strips",
-      "pictureUrl": "",
-      "specW": "0",
-      "wirePins": "0"
-    },
-    {
-      "row": 231,
       "name": "PCB_5PIN_P60x8_10/12mm",
       "unit": "gab",
       "qty": 49,
@@ -3055,7 +3099,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 232,
+      "row": 231,
       "name": "PCB_5PIN_P60x8_12mm",
       "unit": "gab",
       "qty": 47,
@@ -3069,19 +3113,6 @@
     },
     {
       "row": 233,
-      "name": "PCB_5PIN_P12-12mm",
-      "unit": "gab",
-      "qty": 75,
-      "price": 3,
-      "group": "OTHER",
-      "subgroup": "PCB",
-      "sellPartNumber": "OTHER-R186",
-      "informational": false,
-      "description": "",
-      "pictureUrl": ""
-    },
-    {
-      "row": 235,
       "name": "blivslegs mg 12",
       "unit": "gab",
       "qty": 18,
@@ -3094,7 +3125,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 236,
+      "row": 234,
       "name": "C 10A 1P-Automatiskais slēdzis",
       "unit": "gab",
       "qty": 0,
@@ -3107,7 +3138,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 237,
+      "row": 235,
       "name": "limlente, spailes",
       "unit": "gab",
       "qty": 1,
@@ -3120,7 +3151,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 238,
+      "row": 236,
       "name": "Savilces, Stiprinājumi",
       "unit": "gab",
       "qty": 11,
@@ -3133,7 +3164,7 @@
       "pictureUrl": ""
     },
     {
-      "row": 239,
+      "row": 237,
       "name": "Ventilators 80x25 24V 1.56W 69,6m3/h 33dBA SUNON RoHS",
       "unit": "gab",
       "qty": 0,
