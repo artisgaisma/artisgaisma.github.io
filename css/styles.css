@@ -173,6 +173,17 @@ section {
   margin-bottom: 0;
 }
 
+.work-subhead {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0 0 0.75rem;
+}
+
+.work-subhead + .work-list + .work-subhead {
+  margin-top: 2rem;
+}
+
 .work-list {
   display: flex;
   flex-direction: column;
@@ -181,8 +192,8 @@ section {
 
 .work-list a {
   display: grid;
-  grid-template-columns: minmax(9.5rem, 0.85fr) minmax(12rem, 1.7fr) auto;
-  gap: 0.75rem 1.25rem;
+  grid-template-columns: minmax(9.5rem, 0.85fr) auto minmax(12rem, 1.7fr) auto;
+  gap: 0.75rem 1rem;
   align-items: center;
   padding: 0.85rem 1rem;
   background: var(--surface);
@@ -210,6 +221,29 @@ section {
 .work-note {
   color: var(--muted);
   font-size: 0.875rem;
+}
+
+.work-vis {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-radius: 0.35rem;
+  padding: 0.2rem 0.45rem;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.work-vis-public {
+  color: #8fd4a8;
+  background: #163226;
+  border: 1px solid #2d5a42;
+}
+
+.work-vis-private {
+  color: #e8c07a;
+  background: #332818;
+  border: 1px solid #6b5428;
 }
 
 .work-tag {
@@ -252,15 +286,19 @@ section {
   }
 
   .work-list a {
-    grid-template-columns: 1fr auto;
+    grid-template-columns: 1fr auto auto;
     grid-template-areas:
-      "name tag"
-      "note note";
+      "name vis tag"
+      "note note note";
     gap: 0.3rem 0.75rem;
   }
 
   .work-name {
     grid-area: name;
+  }
+
+  .work-vis {
+    grid-area: vis;
   }
 
   .work-note {
