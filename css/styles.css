@@ -7,17 +7,20 @@
   --accent: #3d8bfd;
   --btn: #182432;
   --btn-border: #303a49;
+  --bs-body-bg: #0f1419;
+  --bs-body-color: #e8edf4;
 }
 
 html {
   scroll-behavior: smooth;
+  background: #0f1419;
 }
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
     "Noto Sans", Arial, sans-serif;
-  background: var(--bg);
-  color: var(--text);
+  background: #0f1419 !important;
+  color: #e8edf4 !important;
   font-size: 15px;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
